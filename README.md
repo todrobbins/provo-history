@@ -12,7 +12,7 @@ Early Provo (Utah) Organizations/Locales
 
 Data Schema
 -----------
-We will be utilzing the [Mormon-Missionaries](https://github.com/opensourcehistory/Mormon-Missionaries) ( [Open Source History](https://github.com/opensourcehistory) ) schema for documentation:
+We will be utilzing the [Mormon-Primary-Sources](https://github.com/opensourcehistory/Mormon-Primary-Sources)/[Mormon-Missionaries](https://github.com/opensourcehistory/Mormon-Missionaries) ( [Open Source History](https://github.com/opensourcehistory) ) schema for documentation:
 
 > Additional keys may be used and not all keys will be present in each document. This facilitates scaling the data as the repository grows and the variability between sources increases. The document-oriented structure of this system encourages providing as much data as desired, but each data value must have a key. The Indexing Syntax section describes how the information is to be encoded to allow for easy parsing by search indexers.
 
