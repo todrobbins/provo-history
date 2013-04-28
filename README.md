@@ -1,4 +1,4 @@
-Provo History (Current Projects)
+Provo History
 ================================
 This repo will serve as a collection of notes and structured data for the history of [Provo, Utah](https://en.wikipedia.org/wiki/Provo,_Utah)
 
