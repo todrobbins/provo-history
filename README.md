@@ -7,7 +7,7 @@ Early Provo (Utah) Organizations/Locales
 
 * Provo Dramatic Association
 * Provo Martial Band
- * Founded by [Dominicus Carter]('http://mormonbiography.org/index.php?title=Dominicus_Carter_(1806-1884)')
+ * Founded by [Dominicus Carter](http://mormonbiography.org/index.php?title=Dominicus_Carter_%281806-1884%29)
 * Provo Opera House
 
 Data Schema
