@@ -1,0 +1,134 @@
+@import url('reset.css');
+
+html {
+	height: 100%;
+	background: url('../img/foggy_birds.png');
+	font-family: Baskerville, Georgia, serif;
+}
+
+body {
+	padding: 4em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+	color: #000;
+}
+
+h2,h3,h4,h5,h6 {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 2.4em;
+}
+
+h2 {
+	font-family: Helvetica;
+	color: tomato;
+	font-size: 1.6em;
+	margin: 1em 0;
+}
+
+h3 {
+	font-size: 1.2em;
+	margin: .4em 0;
+	color: #555;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+h4 {
+	font-size: 1.2em;
+	font-style: normal;
+	margin: .4em 0;		
+}
+
+p {
+	color: #000;
+}
+
+em {
+	font-size: .9em;
+	font-style: italic;
+	color: #000;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-bottom: 2px dotted #bbf;
+    margin:1em 0;
+    padding:0;
+}
+
+.title {
+	margin: 0 0 1em 0;
+	border-bottom: 2px dotted #fff;
+}
+
+.person {
+	display: inline-block;
+	padding: 1em;
+	margin: .2em .2em 1em .2em;
+	width: 25%;
+	transition: all .4s ease;
+	border-radius: .2em;
+}
+
+.person:hover {
+	box-shadow: 0 .5em 1em rgba(0,0,0,.6);
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform: scale(1.2);
+	background: #fff;
+	z-index: 999;
+}
+
+a,a:link,a:active,a:visited {
+	color: #000;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+	color: tomato;
+}
+
+p.bio {
+	color: #222;
+	font-size: .9em;
+	margin-top: 1.3em;
+	line-height: 1.5em;
+}
+
+.separator {
+	width: 100%;
+	height: 2px;
+	background: #bbf;
+}
+
+.references {
+	list-style: decimal;
+	margin-left: 1em;
+}
+
+.references li {
+	font-size: 1.1em;
+	line-height: 1.5em;
+}
+
+.references em {
+	font-family: Baskerville, Georgia, serif;
+	font-size: 1em;
+}
+
+sup, sub {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.5em;
+   font-size: .8em;
+}
+sub { top: 0.5em; }
