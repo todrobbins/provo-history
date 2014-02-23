@@ -513,138 +513,23 @@ The subsequent sad fate of Lieutenant John W. Gunnsion and his party on the Sevi
 
 ##FEB. 9th. BATTLE AT FORT UTAH.
 
-As for the inhabitants of Fort Utah, they patiently bore their annoyances and losses until nearly spring, 1850, when affairs became so serious that they felt compelled to appeal for aid to Governor Brigham Young and the Legislature, still in session at Salt Lake City. Captain Peter W. Conover, in charge of military affairs at the fort, and Miles Weaver carried the message of their anxious fellow settlers to headquarters. 
+As for the inhabitants of Fort Utah, they patiently bore their annoyances and losses until nearly spring, 1850, when affairs became so serious that they felt compelled to appeal for aid to Governor Brigham Young and the Legislature, still in session at Salt Lake City. Captain Peter W. Conover, in charge of military affairs at the fort, and Miles Weaver carried the message of their anxious fellow settlers to headquarters.
 
-Governor Young, on receiving the message, 
-found himself in a somewhat peculiar position. That 
-the beleaguered settlers must be relieved, and at once 
-was evident, not only for their own sakes, but for 
-that of other settlements already forming or in pros- 
-pect ill the south. But how best to relieve them was 
-the question. The thought of more fighting and blood- 
-shed was most repugnant to him. Not for worlds 
-would the " Mormon " leader have the sons of La- 
-man think that he and his people came among them 
-for that purpose. "Feed them and not fight them," 
-was his life-long motto and policy toward the red 
-men. Besides, how would the authorities at Washing- 
-ton, by whom the petition of Deseret for statehood 
-was then being considered, regard the opening of a 
-warfare by the " Mormons " upon these dusky 
-"Wards of the Government. ' ' Deem not this a trifling 
-consideration, reader. A people like the "Mor- 
-mons, liable to be misinterpreted, had to be cautious 
-and circumspect in their public acts and policies, 
-where other communities, whose loyalty and good 
-intents were unquestioned, might have risked all 
-with impunity. 
+Governor Young, on receiving the message, found himself in a somewhat peculiar position. That the beleaguered settlers must be relieved, and at once was evident, not only for their own sakes, but for that of other settlements already forming or in prospect ill the south. But how best to relieve them was the question. The thought of more fighting and bloodshed was most repugnant to him. Not for worlds would the "Mormon" leader have the sons of Laman think that he and his people came among them for that purpose. "Feed them and not fight them," was his life-long motto and policy toward the red men. Besides, how would the authorities at Washington, by whom the petition of Deseret for statehood was then being considered, regard the opening of a warfare by the "Mormons" upon these dusky "Wards of the Government." Deem not this a trifling consideration, reader. A people like the "Mormons, liable to be misinterpreted, had to be cautious and circumspect in their public acts and policies, where other communities, whose loyalty and good intents were unquestioned, might have risked all with impunity. 
 
+Fortunately, there was a government officer on the grounds, a brave and honorable man, Captain Howard Stansbury. It being evident all conciliatory efforts having failed that force must be employed to put an end to the aggressions of the savages, the Captain was asked by Governor Young and other officials for an expression of opinion as to what view the Government would probably take of it. "I did not hesitate to say to them," says Stansbury, "that in my judgment the contemplated expedition against these savage marauders was a measure not only of good policy, but one of absolute necessity and self-preservation.
 
+He therefore warmly approved of it, and not only that, but at Governor Young's request permitted Lieutenant Howland to accompany the expedition as its adjutant, and contributed arms, ammunition, tents and camp equipage for the soldiers. Dr. Blake, of the Stansbury party, acted as surgeon for the expedition. 
 
-INDIAN DEPREDATIONS 29 
+A company of fifty minute men under Captain George D. Grant started from Salt Lake City, Feb. 7 1850, followed by fifty others, commanded by Major Andrew Lytle. Colonel Scott had been ordered to go, but declined, for which he was afterwards court-martialed. Major Lytle went in his stead. 
 
-Fortunately, there was a government officer 
-on the grounds, a brave and honorable man, Cap- 
-tain Howard Stansbury. It being evident all con- 
-ciliatory efforts having failed that force must be 
-employed to put an end to the aggressions of the 
-savages, the Captain was asked by Governor Young 
-and other officials for an expression of opinion as to 
-what view the Government would probably take of it. 
-' i I did not hesitate to say to them, ' ' says Stansbury, 
-"that in my judgment the contemplated expedition 
-against these savage marauders was a measure not 
-only of good policy, but one of absolute necessity 
-and self-preservation. 
+The expedition set out early in February, 1850. The weather was extremely cold, and the snow, frozen and hard-crusted, was over a foot deep in the valleys. Progress was therefore rendered very difficult. 
 
-He therefore warmly approved of it, and not 
-only that, but at Governor Young's request permit- 
-ted Lieutenant Howland to accompany the expedition 
-as its adjutant, and contributed arms, ammunition, 
-tents and camp equipage for the soldiers. Dr. Blake, 
-of the Stansbury party, acted as surgeon for the ex- 
-pedition. 
+Captain Grant's cavalry, after marching all night, on the morning of the 8th, arrived at Provo River. Such a march was deemed necessary in order to take the Indians unaware and secure an advantageous position. The militia found the settlers in their fort on the south side of the stream, and the Indians strongly entrenched in the willows and timber of the river-bottom, a mile or two above. They were protected not only by the river-bank, but by a breast- work of cotton-wood trees which they felled. Near by their strong-hold stood a double log house facing the river. This house, built by James A. Bean and sons, which at one time became the center of action in the fight that ensued, was immediatey opposite the Indian fortification. It had been deserted by one of the settlers, James A. Bean, who had taken refuge with his family at the fort. The house was now held by the savages who, during the battle, kept up a continuous fire from its windows and crevices, as well as from their redoubt, upon the attacking party. 
 
-A company of fifty minute men under Captain 
-George D. Grant started from Salt Lake City, Feb. 
-7 1850, followed by fifty others, commanded by Major 
-Andrew Lytle. Colonel Scott had been ordered to go, 
-but declined, for which he was afterwards court- 
-martialed. Major Lytle went in his stead. 
+Captain Conover, commander at the fort, united his men with Captain Grant's, and the main forces then proceeded to occupy a position near the deserted building, about a half a mile south-west of the log house mentioned. The Indians were led by Chiefs Elk and Ope-Carry surnamed "Stick-in-the-Head" the latter, like Sowiette, rather friendly with the whites, while Elk, as has been stated, was more like the warlike Walker. Ope-Carry, it seems, desired peace, and had come out of the redoubt to talk with Dimick B. Huntingdon, the interpreter, when Elk and his warriors opened fire, and the battle was thus begun. 
 
-The expedition set out early in February, 1850. 
-The weather was extremely cold, and the snow, fro- 
-zen and hard-crusted, was over a foot deep in the 
-valleys. Progress was therefore rendered very dif- 
-ficult. 
-
-Captain Grant's cavalry, after marching all 
-night, on the morning of the 8th, arrived at Prove 
-Eiver. Such a march was deemed necessary in order 
-
-
-
-30 INDIAN DEPBEDATIONS 
-
-
-
-to take the Indians unaware and secure an advanta- 
-geous position. The militia found the settlers in their 
-fort on the south side of the stream, and the Indians 
-strongly entrenched in the willows and timber of the 
-river-bottom, a mile or two above. They were pro- 
-tected not only by the river-bank, but by a breast- 
-work of cotton-wood trees which they felled. Near 
-by their strong-hold stood a double log house facing 
-the river. This house, built by James A. Bean and 
-sons, which at one time became the center of action 
-in the fight that ensued, was immediatey opposite 
-the Indian fortification. It had been deserted by 
-one of the settlers, James A. Bean, who had taken 
-refuge with his family at the fort. The house was 
-now held by the savages who, during the battle, kept 
-up a continuous fire from its windows and crevices, 
-as well as from their redoubt, upon the attacking 
-party. 
-
-Captain Conover, commander at the fort, united 
-his men with Captain Grant's, and the main forces 
-then proceeded to occupy a position near the deserted 
-building, about a half a mile south-west of the log 
-house mentioned. The Indians were led by Chiefs 
-Elk and Ope-Carry surnamed "Stick-in-the-Head" 
-the latter, like Sowiette, rather friendly with the 
-whites, while Elk, as has been stated, was more 
-like the warlike Walker. Ope-Carry, it seems, de- 
-sired peace, and had come out of the redoubt to 
-talk with Dimick B. Huntingdon, the interpreter, 
-when Elk and his warriors opened fire, and the bat- 
-tle was thus begun. 
-
-The engagement lasted two days, during which 
-time an almost incessant fusilade was kept up be- 
-tween the white assailants and the dusky defenders 
-
-
-
-INDIAN DEPBEDATIONS 31 
-
-of the river redoubt. Artillery was also employed 
-against the savages, but with little effect, as they 
-were right under the bank, and most of the balls 
-passed harmlessly over. A squaw was killed by a 
-chain shot, however, during the progress of the 
-fight. The Indians would make frequent sorties, 
-and after delivering their fire, return to coVer. 
-Again, they would thrust their gun barrels through 
-the snow lying deep upon the banks above them, 
-and momentarily raising their heads high enough 
-to take aim, discharge their broad-side at the be- 
-siegers. They fought so stubbornly that all efforts 
-to dislodge them for a time proved futile. They 
-killed Joseph Higbee, son of Isaac Higbee then 
-president of the settlement and wounded several 
-others of the attacking force. 
+The engagement lasted two days, during which time an almost incessant fusilade was kept up between the white assailants and the dusky defenders of the river redoubt. Artillery was also employed against the savages, but with little effect, as they were right under the bank, and most of the balls passed harmlessly over. A squaw was killed by a chain shot, however, during the progress of the fight. The Indians would make frequent sorties, and after delivering their fire, return to cover. Again, they would thrust their gun barrels through the snow lying deep upon the banks above them, and momentarily raising their heads high enough to take aim, discharge their broad-side at the besiegers. They fought so stubbornly that all efforts to dislodge them for a time proved futile. They killed Joseph Higbee, son of Isaac Higbee then president of the settlement and wounded several others of the attacking force. 
 
 Finally, in the afternoon of the second day, 
 (Feb. 9th) Captain Grant, whose care had been to 
