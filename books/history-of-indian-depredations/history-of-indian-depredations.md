@@ -1,24 +1,28 @@
-HISTORY OF INDIAN DEPREDATIONS IN UTAH 
-
+#HISTORY OF INDIAN DEPREDATIONS IN UTAH 
 
 ILLUSTRATED 
 
 
-COMPILED AND EDITED by PETER GOTTFREDSON 
+COMPILED AND EDITED
+by
+PETER GOTTFREDSON 
 
 
 
 
-Copyright 1919 by Peter Gottfredson 
+Copyright 1919
+by 
+Peter Gottfredson 
 
 
-Press of SKELTON PUBLISHING Co.
+Press of
+SKELTON PUBLISHING Co.
 Salt Lake City
 
 
 
 
-Preface
+#Preface
 
 In collecting and compiling this history of Indian depredations in Utah, it has been my purpose to obtain my information first handed, as far as possible. I was personally acquainted with conditions in Sanpete and Sevier Valleys during the years 1863 to 1872. It fell to my lot to be herd-boy in Thistle Valley, which was then a favorite haunt of the Indians, and they often told us that we were trespassers on their domain. In 1865, when the Black Hawk war broke out, I had left Sanpete to locate in Sevier Valley, which was then most exposed to Indian raids because of having been settled but one year when the war broke out and that valley afforded the handiest and most convenient outlets into the Indian stronghold in the mountains and country lying to the east, which was then unsettled by white people and but little known to them. 
 
@@ -32,12 +36,12 @@ It has not been my purpose to single out any one as a particular hero ahead of a
 
 I sincerely thank all who haVe assisted me, especially the Indian War Veterans and the Church Historians for their willing and interested assistance. I will make special mention of Assistant Church Historian Andrew Jenson, who has given me important assistance in obtaining correct dates and information, and preparing my manuscript for the printers, and hope my little book will fill an important place in the history of our fair State. 
 
---The Compiler.
+_--The Compiler._
 
 
 
 
-Introduction
+#Introduction
 
 It has always been the policy of the Mormon people to court the friendship of the American Indian and treat him kindly. 
 
@@ -58,357 +62,357 @@ As the settlements became more populous, towns were surveyed with blocks general
 
 
 
-CONTENTS 
+#CONTENTS 
 
-Chapter I.
+##Chapter I.
 
-  **1847-1864**--Pioneers First Winter in Utah. By Solomon F. Kimball and John R. Young
+**1847-1864**--Pioneers First Winter in Utah. By Solomon F. Kimball and John R. Young
 
-    1849 First Battle with Indians in Utah, at Battle Creek
+1849 First Battle with Indians in Utah, at Battle Creek
 
-    Extract from the journal of Judge George W. Bean
+Extract from the journal of Judge George W. Bean
 
-    Settling of Utah Valley, copied from Whitney's
+Settling of Utah Valley, copied from Whitney's
 
-    History of Utah. Trouble at Fort Utah (Provo)
+History of Utah. Trouble at Fort Utah (Provo)
 
-    The First Indian War
+The First Indian War
 
-  **1850**--Battle at Fort Utah
+**1850**--Battle at Fort Utah
 
-    Chief Walker Plans to Massacre the People
+Chief Walker Plans to Massacre the People
 
-  **1851**--Copied from Tullidge's Histories, Vol. II, Page 83
+**1851**--Copied from Tullidge's Histories, Vol. II, Page 83
 
-    Death of Squash-Head
+Death of Squash-Head
 
-  **1853**--Cause and Origin of the Walker War, by Geo. McKenzie
+**1853**--Cause and Origin of the Walker War, by Geo. McKenzie
 
-    Further Particulars of the Walker War by John W. Berry
+Further Particulars of the Walker War by John W. Berry
 
-    The Walker War Continued, Treachery of the Indians
+The Walker War Continued, Treachery of the Indians
 
-    From Whitney's History of Utah, Vol. I, page 514
+From Whitney's History of Utah, Vol. I, page 514
 
-    Colonel George A. Smith Given Command of the Militia
+Colonel George A. Smith Given Command of the Militia
 
-    Attack on Willow Creek, (Mona). Issac Duff Wounded
+Attack on Willow Creek, (Mona). Issac Duff Wounded
 
-    At Parley's Park, Two Men Killed, One Wounded
+At Parley's Park, Two Men Killed, One Wounded
 
-    William Hatton Killed While Standing Guard at Fillmore
+William Hatton Killed While Standing Guard at Fillmore
 
-    Col. Markham's Brush at Goshen. C. B. Hancock Wounded
+Col. Markham's Brush at Goshen. C. B. Hancock Wounded
 
-    The Gunnison Massacre, by J. F. Gibbs
+The Gunnison Massacre, by J. F. Gibbs
 
-    Four Men Killed at Uintah Springs, Sanpete County
+Four Men Killed at Uintah Springs, Sanpete County
 
-    Skirmish at Nephi, Juab County. Eight Indians Killed
+Skirmish at Nephi, Juab County. Eight Indians Killed
 
-    Wm. Mills and John E. Warner Killed at Manti
+Wm. Mills and John E. Warner Killed at Manti
 
-    Attack at Santaquin, Utah County, Fernee L. Tindrell Killed
+Attack at Santaquin, Utah County, Fernee L. Tindrell Killed
 
-    Chase's Sawmill in Sanpete County Burned by Indians
+Chase's Sawmill in Sanpete County Burned by Indians
 
-  **1854**--The Allred Settlement, (Spring City) Burned by Indians
+**1854**--The Allred Settlement, (Spring City) Burned by Indians
 
-    Treaty With Chief Walker and Kanosh. End of Ute War
+Treaty With Chief Walker and Kanosh. End of Ute War
 
-    William and Warren Weeks Killed in Cedar Valley
+William and Warren Weeks Killed in Cedar Valley
 
-  **1855**--Chief Walker Died at Meadow Creek, Millard County
+**1855**--Chief Walker Died at Meadow Creek, Millard County
 
-    The Elk Mountain Mission and Abandonment
+The Elk Mountain Mission and Abandonment
 
-    The Salmon River Mission
+The Salmon River Mission
 
-  **1857?**--The Salmon River Mission Abandoned
+**1857?**--The Salmon River Mission Abandoned
 
-    Another Account
+Another Account
 
-  **1856?**--The Tintic War
+**1856?**--The Tintic War
 
-    A Posse Went in Pursuit of Chief Tintic and Band
+A Posse Went in Pursuit of Chief Tintic and Band
 
-    From Tullidge's History, Vol. 3, page 157, by John Banks
+From Tullidge's History, Vol. 3, page 157, by John Banks
 
-  **1858**--Four persons massacred in Salt Creek Canyon
+**1858**--Four persons massacred in Salt Creek Canyon
 
-    The Bodies of Josiah Call and Samuel Brown found Murdered at Chicken Creek, Juab Co.
+The Bodies of Josiah Call and Samuel Brown found Murdered at Chicken Creek, Juab Co.
 
-  **1860**--Murder of a Peaceable Indian by Officers from Camp Floyd
+**1860**--Murder of a Peaceable Indian by Officers from Camp Floyd
 
-    Mail Station at Deep Creek Attacked, One Man Shot
+Mail Station at Deep Creek Attacked, One Man Shot
 
-    Attack on Smithfield, John Reed and Ira Merrill Killed
+Attack on Smithfield, John Reed and Ira Merrill Killed
 
-  **1863**--Colonel Conner's Command Starts, for Bear River
+**1863**--Colonel Conner's Command Starts, for Bear River
 
-    Colonel Connor's Battle at Bear River
+Colonel Connor's Battle at Bear River
 
-    Attack on a Platoon of Soldiers at Pleasant Grove
+Attack on a Platoon of Soldiers at Pleasant Grove
 
-    Indian Outrage in Boxelder County, Wm. Thorp Killed
+Indian Outrage in Boxelder County, Wm. Thorp Killed
 
-    Stage Attacked in Cedar Valley, Two Men Killed
+Stage Attacked in Cedar Valley, Two Men Killed
 
-    Treaty at Brigham City, with Shoshone Indians
+Treaty at Brigham City, with Shoshone Indians
 
-    Statement by N. O. Anderson of Ephraim
+Statement by N. O. Anderson of Ephraim
 
-    Herdsman C. C. Rowe in Thistle Valley
+Herdsman C. C. Rowe in Thistle Valley
 
-  **1864**--Herdsmen Jens Gottfredson and Ole Jensen in Thistle Valley. (Peter Gottfredson)
+**1864**--Herdsmen Jens Gottfredson and Ole Jensen in Thistle Valley. (Peter Gottfredson)
 
-Chapter II.
+##Chapter II.
 
-  **1865**--The Black Hawk War. Treaty at Manti. The Lowry Affair
+**1865**--The Black Hawk War. Treaty at Manti. The Lowry Affair
 
-    P. Ludvigson, Barney Ward and J. P. Anderson killed
-    
-    Col. Allred with 84 Men Defeated in Salina Canyon
+P. Ludvigson, Barney Ward and J. P. Anderson killed
 
-    Statement of Gotlieb Enz
+Col. Allred with 84 Men Defeated in Salina Canyon
 
-    Walter Jones of Monroe Seriously Wounded
+Statement of Gotlieb Enz
 
-    Jens Larsen a Sheep Herder Killed Near Fairview
+Walter Jones of Monroe Seriously Wounded
 
-    John Given, Wife and Four Children Murdered in Thistle Valley
+Jens Larsen a Sheep Herder Killed Near Fairview
 
-    David H. Jones Killed Near Fairview
+John Given, Wife and Four Children Murdered in Thistle Valley
 
-    Indians Killed at Circleville
+David H. Jones Killed Near Fairview
 
-    About 150 Head of Stock Stolen from Richfield
+Indians Killed at Circleville
 
-    Government Aid Refused. The Militia Ordered Out
+About 150 Head of Stock Stolen from Richfield
 
-    Treaty by Col. O. H. Irish at Spanish Fork
+Government Aid Refused. The Militia Ordered Out
 
-    Reservation
+Treaty by Col. O. H. Irish at Spanish Fork
 
-    Meeting With the Indians
+Reservation
 
-    Indian Etiquette
+Meeting With the Indians
 
-    President Young and Party Left G. S. L. City for Sanpete
+Indian Etiquette
 
-    R. Gillispie and A. Robinson Killed South of Salina
+President Young and Party Left G. S. L. City for Sanpete
 
-    Gen. W. S. Snow Took Command of the Sanpete 
+R. Gillispie and A. Robinson Killed South of Salina
 
-    Militia
+Gen. W. S. Snow Took Command of the Sanpete 
 
-    Gen. Snow Start After the Indians, the Squaw Fight in Grass Valley, Marine York Wounded
+Militia
 
-    Gen. Snow and Command Start to Green River
+Gen. Snow Start After the Indians, the Squaw Fight in Grass Valley, Marine York Wounded
 
-    Attack on Glenwood, Merritt Staly Wounded
+Gen. Snow and Command Start to Green River
 
-    Minute Companies Ordered Away From Home
+Attack on Glenwood, Merritt Staly Wounded
 
-    Battle at Red Lake, Snow, Taylor and Franson Wounded
+Minute Companies Ordered Away From Home
 
-    Attack on Ephraim, Seven Settlers Killed, Two Wounded
+Battle at Red Lake, Snow, Taylor and Franson Wounded
 
-    Raid on Circleville, Four Persons Killed
+Attack on Ephraim, Seven Settlers Killed, Two Wounded
 
-  **1866**--Dr. J. M. Whitmore and R. Mclntyre Killed at at Pipe Springs. Bodies Recovered, Seven Indians Killed
+Raid on Circleville, Four Persons Killed
 
-    Gen. Snow Arrests a Camp of Indians at Nephi
+**1866**--Dr. J. M. Whitmore and R. Mclntyre Killed at at Pipe Springs. Bodies Recovered, Seven Indians Killed
 
-    Killing of Joseph and Robert Berry and Wife
+Gen. Snow Arrests a Camp of Indians at Nephi
 
-    Removal from Long Valley, Report of Mrs. J. D. L. Pierce
+Killing of Joseph and Robert Berry and Wife
 
-    Raid on Salina, Three Teams Attacked, Cow Herd Taken, Herder Killed
+Removal from Long Valley, Report of Mrs. J. D. L. Pierce
 
-    Indians at Manti Broke Jail, 3 Indians Killed, 5 Escape
+Raid on Salina, Three Teams Attacked, Cow Herd Taken, Herder Killed
 
-    Chief Sanpitch Killed near Moroni, Sanpete County
+Indians at Manti Broke Jail, 3 Indians Killed, 5 Escape
 
-    Town of Salina Vacated After Losing Their Stock
+Chief Sanpitch Killed near Moroni, Sanpete County
 
-    Organizing of the Panguitch Militia, Skirmish at Fort Sanford, John Butler Wounded
+Town of Salina Vacated After Losing Their Stock
 
-    Ambuscade at Marysvale, A. Lewis and C. Christensen Killed
+Organizing of the Panguitch Militia, Skirmish at Fort Sanford, John Butler Wounded
 
-    Thomas Jones Killed and Wm. Avery Wounded at Fairview 
+Ambuscade at Marysvale, A. Lewis and C. Christensen Killed
 
-    Pres. Young Advises the People to Move Together
+Thomas Jones Killed and Wm. Avery Wounded at Fairview 
 
-    Col. Dodge Sends Word to Call Out the Militia
+Pres. Young Advises the People to Move Together
 
-    Kimball's and Conover's Commands Arrive at Manti
-    
-    Christian Larsen, a Herder Killed on Spanish Fork Bench
+Col. Dodge Sends Word to Call Out the Militia
 
-    Old Father J. R. Ivie and Henry Wright Killed at Scipio
+Kimball's and Conover's Commands Arrive at Manti
 
-    Gen. Pace's Battle at Gravelly Ford, Wm. Tunbridge Wounded
+Christian Larsen, a Herder Killed on Spanish Fork Bench
 
-    A Race for Life
+Old Father J. R. Ivie and Henry Wright Killed at Scipio
 
-    Gen. Wells and Militia Leave Salt Lake City for Sanpete, Gen. Wells Takes Command of the Militia in Sanpete
+Gen. Pace's Battle at Gravelly Ford, Wm. Tunbridge Wounded
 
-    Captain A. P. Dewey was ordered to establish a post in Thistle Valley
+A Race for Life
 
-    Battle in Thistle Valley
+Gen. Wells and Militia Leave Salt Lake City for Sanpete, Gen. Wells Takes Command of the Militia in Sanpete
 
-    Reported by Joel Andrew Johnson one of Major Duff's Men
+Captain A. P. Dewey was ordered to establish a post in Thistle Valley
 
-    Battle in Diamond Fork, Edmundson and Dimick Killed
+Battle in Thistle Valley
 
-    Copied from History of Springville
+Reported by Joel Andrew Johnson one of Major Duff's Men
 
-    Circleville in Piute County Abandoned
+Battle in Diamond Fork, Edmundson and Dimick Killed
 
-    Captain Bigler With 60 Men Arrive in Mount Pleasant 
+Copied from History of Springville
 
-    Indians Steal 150 Head of Cattle Near Ephraim
+Circleville in Piute County Abandoned
 
-    A Cavalry Company Leave St. George. Elijah Everett Killed 
+Captain Bigler With 60 Men Arrive in Mount Pleasant 
 
-    History of St. George Stake
+Indians Steal 150 Head of Cattle Near Ephraim
 
-    Muster Roll of Indian Expedition to Reach Junction of Green and Grand Rivers
+A Cavalry Company Leave St. George. Elijah Everett Killed 
 
-    An Extract from James M. Peterson's Diary
+History of St. George Stake
 
-    Death of Black Hawk
+Muster Roll of Indian Expedition to Reach Junction of Green and Grand Rivers
 
-    A Letter from William Probert
+An Extract from James M. Peterson's Diary
 
-    Attack on the J. P. Lee Ranch Near Beaver. Joseph Lillywhite Wounded
+Death of Black Hawk
 
-    Account of the War in Wasatch County and Vicinity
+A Letter from William Probert
 
-    Account of the War in Wasatch County Continued
+Attack on the J. P. Lee Ranch Near Beaver. Joseph Lillywhite Wounded
 
-    Col. Pierce and Andrews Engage Indians Near St. George
+Account of the War in Wasatch County and Vicinity
 
-    Raid on Pine Valley, Indians Overtaken Eleven Killed
+Account of the War in Wasatch County Continued
 
-    J. P. Petersen, Wife and Mary Smith Killed near Glenwood
+Col. Pierce and Andrews Engage Indians Near St. George
 
-    A Skirmish at Glenwood, Stock Recovered
+Raid on Pine Valley, Indians Overtaken Eleven Killed
 
-    Sevier, Piute and Parts of Other Counties Vacated
-  
-    Gen. R. T. Burton and Command Ordered to Sanpete
+J. P. Petersen, Wife and Mary Smith Killed near Glenwood
 
-    Capt. Wm. L. Binder's Infantry Left Salt Lake City for Sanpete 
+A Skirmish at Glenwood, Stock Recovered
 
-    Adam Paul of Capt. Miles Cavalry Company Wounded
+Sevier, Piute and Parts of Other Counties Vacated
 
-    Attack on Fountain Green Cowherd. Louis Lund Killed
+Gen. R. T. Burton and Command Ordered to Sanpete
 
-    Major Vance and Sgt. Houtz Killed at Twelve Mile Creek
+Capt. Wm. L. Binder's Infantry Left Salt Lake City for Sanpete 
 
-    The Paraoonah Range Swept by Indians
+Adam Paul of Capt. Miles Cavalry Company Wounded
 
-    Raid on the Stock at Little Creek, Beaver County
+Attack on Fountain Green Cowherd. Louis Lund Killed
 
-    Wm. J. Allred Recovers His Horses, Kills Two Indians
+Major Vance and Sgt. Houtz Killed at Twelve Mile Creek
 
-    Spring City Fight, J. Meeks and A. Johnson Killed
+The Paraoonah Range Swept by Indians
 
-    Raid on Spring City (by H. S. Ivie)
+Raid on the Stock at Little Creek, Beaver County
 
-    John Hay Killed near Warm Creek While on Guard
+Wm. J. Allred Recovers His Horses, Kills Two Indians
 
-    Gen. Wells Issue Orders for a General Muster
+Spring City Fight, J. Meeks and A. Johnson Killed
 
-    Raid on Beaver 200 Head of Stock Stolen
+Raid on Spring City (by H. S. Ivie)
 
-    Girl Stolen at Wellsville, Never Recovered
+John Hay Killed near Warm Creek While on Guard
 
-    Battle at Rocky Ford, Justesen and Wilson Killed
+Gen. Wells Issue Orders for a General Muster
 
-    Raid on Scipio, Fifteen Head of Horses Stolen
+Raid on Beaver 200 Head of Stock Stolen
 
-    Indians Stop Col. Ivie in Salt Creek Canyon
+Girl Stolen at Wellsville, Never Recovered
 
-    Indian Gratitude
+Battle at Rocky Ford, Justesen and Wilson Killed
 
-    Skirmish at Ephraim, Battle at Rock Lake
+Raid on Scipio, Fifteen Head of Horses Stolen
 
-    Col. Heath's Treaty with Indians in Strawberry Valley
+Indians Stop Col. Ivie in Salt Creek Canyon
 
-    Navajoes Raid Hamsburg Some Stock Stolen
+Indian Gratitude
 
-    Franklin Benjamin Woolley Killed near Fort Mohava
+Skirmish at Ephraim, Battle at Rock Lake
 
-    Raid on Kane County, Three Friendly Indians Killed
+Col. Heath's Treaty with Indians in Strawberry Valley
 
-    Raid on Kanarra, Many Horses Stolen, Some Recovered
+Navajoes Raid Hamsburg Some Stock Stolen
 
-    Niels Heizelt Killed at Twelve Mile Creek
+Franklin Benjamin Woolley Killed near Fort Mohava
 
-    Indian Outrage at Manti, Sanpete County
+Raid on Kane County, Three Friendly Indians Killed
 
-    Indian Outrage at Manti, Sanpete County
+Raid on Kanarra, Many Horses Stolen, Some Recovered
 
-    Chief Tabby Sends Word He Can No Longer Control His Indians
+Niels Heizelt Killed at Twelve Mile Creek
 
-    Col. Ivie Sends Dispatch to General Wells
+Indian Outrage at Manti, Sanpete County
 
-    Assault Upon Jeremiah D. Page at Mount Pleasant
+Indian Outrage at Manti, Sanpete County
 
-    Information on Assault by Bishop Seely
+Chief Tabby Sends Word He Can No Longer Control His Indians
 
-    Gen. Morrow Makes Treaty at Springville
+Col. Ivie Sends Dispatch to General Wells
 
-    Treaty Concluded at Mount Pleasant
+Assault Upon Jeremiah D. Page at Mount Pleasant
 
-    Attack on Fairview Cow Herd. Nathan Stewart Killed
+Information on Assault by Bishop Seely
 
-    Horses Stolen From Richfield and Glenwood
+Gen. Morrow Makes Treaty at Springville
 
-    Horses Stolen from Fountain Green (The Pursuit)
+Treaty Concluded at Mount Pleasant
 
-    Dan. Miller killed and Son Wounded Near Spring City
+Attack on Fairview Cow Herd. Nathan Stewart Killed
 
-    General Morrow's Recommendation to Indian Agent Dodge 
+Horses Stolen From Richfield and Glenwood
 
-    Indians go to Washington to Interview President Grant
+Horses Stolen from Fountain Green (The Pursuit)
 
-    Indian Tradition and legends By D. B. Huntington
+Dan. Miller killed and Son Wounded Near Spring City
 
-    Ute and Piute Traditions by H. J. Gottrfedson
+General Morrow's Recommendation to Indian Agent Dodge 
 
-    An exploring Trip and Treaties with Indians in Grass Valley and Vicinity, by A. K. Thurber, G. W. Bean and others
+Indians go to Washington to Interview President Grant
 
-    Three Navajo Indian Killed in Grass Valely
+Indian Tradition and legends By D. B. Huntington
 
-    Utah Indian War Veterans Organize at Springville
+Ute and Piute Traditions by H. J. Gottrfedson
 
-    Reunion at Manti, John Lowry States Cause of Black Hawk War
+An exploring Trip and Treaties with Indians in Grass Valley and Vicinity, by A. K. Thurber, G. W. Bean and others
 
-    Grass Valley Indians Do Not Want to Go to the Uintah Reservation
+Three Navajo Indian Killed in Grass Valely
 
-    Grass Valley Indians in 1914
+Utah Indian War Veterans Organize at Springville
 
-    Kanosh Koosharem Indians Bear Dance
+Reunion at Manti, John Lowry States Cause of Black Hawk War
 
-    Bill Awarding Medals to Indian War Veterans
+Grass Valley Indians Do Not Want to Go to the Uintah Reservation
 
-    Legislature Appropriate $50,000.00 to Indian War Veterans
+Grass Valley Indians in 1914
 
-    Legislature Appropriate $25,000.00 to Indian War Veterans
+Kanosh Koosharem Indians Bear Dance
 
-    The Federal Pension Bill, Granting Pensions to Indian War Veterans
+Bill Awarding Medals to Indian War Veterans
 
+Legislature Appropriate $50,000.00 to Indian War Veterans
 
+Legislature Appropriate $25,000.00 to Indian War Veterans
 
+The Federal Pension Bill, Granting Pensions to Indian War Veterans
 
-CHAPTER I. 
-1847--1864
 
-**FROM THRILLING EXPERIENCES, By Solomon F. Kimball.**
+
+
+#CHAPTER I. 
+**1847--1864**
+
+##FROM THRILLING EXPERIENCES, By Solomon F. Kimball.
 
 
 The first winter spent by the pioneers in Salt Lake Valley was a quiet one. The surrounding tribes of Indians were on their good behavior, as far as the new comers were concerned, although at war with each other. The victorious parties during such wars scalped all the warriors whom they captured or killed. Their custom was to hang these scalps on their scalp-poles, which they took great pride in exhibitng. The brave that could show the greatest number was considered the greatest Indian of them all. 
@@ -442,285 +446,74 @@ The offer was accepted, and on a lone hill in sight of the village, a "wick-i-up
 
 Sally's funeral had taken place only a few days previous. Over a hundred vehicles followed the remains to its last resting place, and beautiful floral 
 wreaths covered the casket; for Sally had been widely loved among the white settlers for her gentle ways.
---_Young's Manuscript page 45, copied at Historian's Office by H. H. Jenson. 
+_--Young's Manuscript page 45, copied at Historian's Office by H. H. Jenson._
 
-**1849. FEB. 28th, FIRST BATTLE WITH INDIANS IN UTAH, AT BATTLE CEEEK.**
+##1849. FEB. 28th, FIRST BATTLE WITH INDIANS IN UTAH, AT BATTLE CEEEK.
 
 _Copied from records in the L.D.S. Historian's Office._
 
-A report having reached Salt Lake City that some renegade Indians were molesting the settlers, a company of thirty or forty men under Captain John Scott left Salt Lake City Feb. 28, 1849, in pur-suit of some Indians who had been stealing and killing cattle and running off horses from Willow Creek (Draper) and other places. The company proceeded to Utah Valley and met Little Chief and his band of Timpanogos Utes on the Provo River who told the military boys where the thieving Indians were encamped. The company left the Provo river in the night, taking with them as guide Little Chief's son who led them over the Provo Bench toward the creek (Battle Creek) north of the base of the mountains, whence from an eminence they discovered the fires of the Indians who were encamped on the creek which ran in the midst of willows and dense brush-wood in a deep ravine. The company was divided into four smaller bodies and posted north, south, east and west of the Indians, who, when they awoke in the morning, found themselves besieged. The savages packed up their baggage and ineffectually tried every way to escape. They then commenced to fight by shooting arrows and firing guns. This small predatory band of Indians consisted of two lodges under Kone and Blue-Shirt and numbered seventeen souls in all, including four men. The squaws and children were secured and fed and warmed. After a desultory fight of three or four hours, the four men who took every advantage of the brush for cover were killed. None of the brethern were injured. The skins of fifteen cattle, which the Indians had killed were found near by. During the fight Stick-in-the-Head and his band of Timpanogos Utes came up ready for a fight and took position on an elevation, whence they vainly called to the besieged and urged them to come that way. The company returned to Great Salt Lake City March 6th. The squaws and children of the slain were taken to the City, and after being fed went to their friends among the other Indians. From this circumstance the creek on which the fight took place was named Battle Creek. The fight referred to was the first battle which the "Mormon" Pioneers fought with the Indians in the Territory of Utah.
---_From Journal History at the Historian's Office._
+A report having reached Salt Lake City that some renegade Indians were molesting the settlers, a company of thirty or forty men under Captain John Scott left Salt Lake City Feb. 28, 1849, in pursuit of some Indians who had been stealing and killing cattle and running off horses from Willow Creek (Draper) and other places. The company proceeded to Utah Valley and met Little Chief and his band of Timpanogos Utes on the Provo River who told the military boys where the thieving Indians were encamped. The company left the Provo river in the night, taking with them as guide Little Chief's son who led them over the Provo Bench toward the creek (Battle Creek) north of the base of the mountains, whence from an eminence they discovered the fires of the Indians who were encamped on the creek which ran in the midst of willows and dense brush-wood in a deep ravine. The company was divided into four smaller bodies and posted north, south, east and west of the Indians, who, when they awoke in the morning, found themselves besieged. The savages packed up their baggage and ineffectually tried every way to escape. They then commenced to fight by shooting arrows and firing guns. This small predatory band of Indians consisted of two lodges under Kone and Blue-Shirt and numbered seventeen souls in all, including four men. The squaws and children were secured and fed and warmed. After a desultory fight of three or four hours, the four men who took every advantage of the brush for cover were killed. None of the brethern were injured. The skins of fifteen cattle, which the Indians had killed were found near by. During the fight Stick-in-the-Head and his band of Timpanogos Utes came up ready for a fight and took position on an elevation, whence they vainly called to the besieged and urged them to come that way. The company returned to Great Salt Lake City March 6th. The squaws and children of the slain were taken to the City, and after being fed went to their friends among the other Indians. From this circumstance the creek on which the fight took place was named Battle Creek. The fight referred to was the first battle which the "Mormon" Pioneers fought with the Indians in the Territory of Utah.
+_--From Journal History at the Historian's Office._
 
 
-**EXTRACT FROM THE JOURNAL OF JUDGE GEORGE W. BEAN.**
+##EXTRACT FROM THE JOURNAL OF JUDGE GEORGE W. BEAN.
 
-(Almost a life-long Indian interpreter.) 
-
-
-Early in the spring of 1849 a move was made to commence a settlement at Provo, among the powerful tribe of Timpanodes, (Timpanogos) John S. and Isaac Higbee and Alex Williams gathered up a company of about thirty families, James Bean among the rest. They reached the river Provo the 1st of April. About three miles out they were met by a young brave Angatewats by name, who placed himself on horseback across the trail in front of the foremost wagon and forbad them from proceeding farther. Interpreter Dimic B. Huntington, who was with the Company, pleaded for them to try the emigrants a while and see if they could not live in peace together, and after about an hour's delay they were allowed to proceed in peace. They located on the south side of the river, near the lower crossing. They built their houses in a paralellogram, about 20 by 30 rods, enclosing an ancient mound near the center. Most of the houses were built of cotton wood logs, in solid continuous line, and where vacancies occurred, the space was filled in with pickets, about 12 feet long, set in the ground close together, for protection in case of attack from hostile Indians. They had a general stock corral on the East side of the fort outside, beside several private corrals behind the respective houses, with gates or back door openings, the farming was conducted on the east, south and west of the fort, mostly on the west side towards the lake. They got along pretty well with the natives the fore part of the season, although some of the worst In-dians of this western region belonged to this tribe, and they soon found that Provo was the great annual gathering place for all the Ute bands of the valleys for two hundred miles, east and south, on account of the wonderful supply of fish, moving up the stream from the lake to their spawning grounds every spring, indeed so great were the number of suckers and mullet passing continuously up stream that often the river would be full from bank to bank as thick as they could swim for hours and sometimes days together, and fish would be taken in all ways and places. The Indians could feast from morning until night for weeks together, free of all cost, except a little labor catching the Pahgar (suckers), or Mpahger (speckled trout, good fish). At the time of their arrival at Provo the Timpanodes were governed by a chief called by the whites, Little Chief, but in about a month after this, he led a party of warriors to attack Wanship's band, north of Salt Lake City, and was killed in a battle up at Ogden hole, or north Ogden, then Opecarry (SticJc-in-the-Head). There was also Old Elk, (Par ey arts), Old Battiste, Tintic, his brother, Portsorvic, Angatewats and other noted ones here, Old Sawiet, old Petnich, Walker and his brother, and old Uinta and his sons, Tabby, Graspero. and Nicquia, old Antero, and some times Kanosh. These with their bands had been accustomed to meet at Provo, and have a great good time, horse racing, trading, gambling and eating fish, for several weeks every year. There were some additions made to the population at Provo during the summer, and in the fall when Indian troubles broke out, they were situated in the fort. 
-
-The Indians were anxious for traders to bring 
-guns, ammunition and various merchandise to barter 
-for their skins and furs, horses and such things as 
-they had, sometimes buffalo robes, as those Ute In- 
-dians were an enterprising race, generally going 
-once a year to the eastern plains, to kill buffalo, and 
-for many winters had made incursions into Southern 
-California, robbing the ranchers of thousands of 
-horses. The cause of these raids being based on the 
-bad treatment of some of Chief Walker's party 
-many years ago, by certain ranchers, taking their 
-buffalo robes, Indian children and confiscating their 
-property without compensation. The settlers no 
-doubt acted under law of trade and intercourse, but 
-which was not understood by those tribes of the 
-Utah band. In this way Walker's band of Utes had 
-accumulated many horses. Some of the men here 
-started up a traffic with the natives, notably Alex 
-Williams, the guides James B. Porter and D. B. 
-Huntington, their interpreter. After a while came 
-trouble. 
-
-The first serious outbreak was occasioned by 
-three of our people, namely: Richard A. Ivie, Y. 
-Eufus Stoddard and Gerome Zabriskie, who met an 
-Indian called Bishop Whitney, in the field and 
-claimed a shirt the Indian had on. The Indian re- 
-fused to give it up. Ivie claimed it as his and tried 
-to take it, was resisted and in the scuffle that in- 
-sued, the Indian was killed, and his body weighted 
-with rock, was sunk in the river, so reported by 
-the Indians, who found the body after 24 hours 
-search. 
-
-This killing of the Old Bishop, so called, occur- 
-red about the 1st of August, 1849, and immediately 
+**(Almost a life-long Indian interpreter.)**
 
 
+Early in the spring of 1849 a move was made to commence a settlement at Provo, among the powerful tribe of Timpanodes, (_Timpanogos_) John S. and Isaac Higbee and Alex Williams gathered up a company of about thirty families, James Bean among the rest. They reached the river Provo the 1st of April. About three miles out they were met by a young brave _Angatewats_ by name, who placed himself on horseback across the trail in front of the foremost wagon and forbad them from proceeding farther. Interpreter Dimic B. Huntington, who was with the Company, pleaded for them to try the emigrants a while and see if they could not live in peace together, and after about an hour's delay they were allowed to proceed in peace. They located on the south side of the river, near the lower crossing. They built their houses in a paralellogram, about 20 by 30 rods, enclosing an ancient mound near the center. Most of the houses were built of cotton wood logs, in solid continuous line, and where vacancies occurred, the space was filled in with pickets, about 12 feet long, set in the ground close together, for protection in case of attack from hostile Indians. They had a general stock corral on the East side of the fort outside, beside several private corrals behind the respective houses, with gates or back door openings, the farming was conducted on the east, south and west of the fort, mostly on the west side towards the lake. They got along pretty well with the natives the fore part of the season, although some of the worst Indians of this western region belonged to this tribe, and they soon found that Provo was the great annual gathering place for all the Ute bands of the valleys for two hundred miles, east and south, on account of the wonderful supply of fish, moving up the stream from the lake to their spawning grounds every spring, indeed so great were the number of suckers and mullet passing continuously up stream that often the river would be full from bank to bank as thick as they could swim for hours and sometimes days together, and fish would be taken in all ways and places. The Indians could feast from morning until night for weeks together, free of all cost, except a little labor catching the _Pahgar_ (suckers), or _Mpahger_ (speckled trout, good fish). At the time of their arrival at Provo the Timpanodes were governed by a chief called by the whites, Little Chief, but in about a month after this, he led a party of warriors to attack Wanship's band, north of Salt Lake City, and was killed in a battle up at Ogden hole, or north Ogden, then Opecarry (_Stick-in-the-Head_). There was also Old Elk, (_Pareyarts_), Old Battiste, Tintic, his brother, _Portsorvic_, _Angatewats_ and other noted ones here, Old _Sawiet_, old _Petnich_, Walker and his brother, and old _Uinta_ and his sons, Tabby, _Graspero_. and _Nicquia_, old _Antero_, and some times Kanosh. These with their bands had been accustomed to meet at Provo, and have a great good time, horse racing, trading, gambling and eating fish, for several weeks every year. There were some additions made to the population at Provo during the summer, and in the fall when Indian troubles broke out, they were situated in the fort. 
 
-INDIAN DEPREDATIONS 23 
+The Indians were anxious for traders to bring guns, ammunition and various merchandise to barter for their skins and furs, horses and such things as they had, sometimes buffalo robes, as those Ute Indians were an enterprising race, generally going once a year to the eastern plains, to kill buffalo, and for many winters had made incursions into Southern California, robbing the ranchers of thousands of horses. The cause of these raids being based on the bad treatment of some of Chief Walker's party many years ago, by certain ranchers, taking their buffalo robes, Indian children and confiscating their property without compensation. The settlers no doubt acted under law of trade and intercourse, but which was not understood by those tribes of the Utah band. In this way Walker's band of Utes had accumulated many horses. Some of the men here started up a traffic with the natives, notably Alex Williams, the guides James B. Porter and D. B. Huntington, their interpreter. After a while came 
+trouble.
 
-caused great excitement amongst the Indians, es- 
-pecially the Timpanodes, located here. They first 
-demanded the murderers, which, of course, was re- 
-fused by the whites. They then required compen- 
-sation in cattle and horses, but nothing was ever 
-given, and shortly after this cattle and horses were 
-found with arrows sticking in them, several per- 
-sons were shot at while in the woods and other 
-places. Meanwhile the people prepared for defense. 
-Peter W. Conover was chosen Captain of Militia 
-with E. T. Thomas and G. T. Willis, lieutenants, 
-Miles Weaver, adjutant, Joseph Clark, sergeant. 
-Guards were posted at night and armed herdsmen 
-on horseback, kept the stock by day. The leading 
-Indians ordered the people off their lands. They 
-made serious threats in case of failure to leave and 
-stock was stolen from time to time. 
+The first serious outbreak was occasioned by three of our people, namely: Richard A. Ivie, Y. Rufus Stoddard and Gerome Zabriskie, who met an Indian called Bishop Whitney, in the field and claimed a shirt the Indian had on. The Indian refused to give it up. Ivie claimed it as his and tried to take it, was resisted and in the scuffle that insued, the Indian was killed, and his body weighted with rock, was sunk in the river, so reported by the Indians, who found the body after 24 hours search. 
 
-About September 1st a bastion was constructed 
-on the mound in the fort, of heavy posts, 30 feet 
-square, with log railings, and a six pounder iron 
-cannon placed on the pfatlorm of the bastion, which 
-was sufficiently elevated to protect the fort and 
-stockyards from attack, which was considered liable 
-to occur at any time. 
+This killing of the Old Bishop, so called, occurred about the 1st of August, 1849, and immediately caused great excitement amongst the Indians, especially the Timpanodes, located here. They first demanded the murderers, which, of course, was refused by the whites. They then required compensation in cattle and horses, but nothing was ever given, and shortly after this cattle and horses were found with arrows sticking in them, several persons were shot at while in the woods and other places. Meanwhile the people prepared for defense. Peter W. Conover was chosen Captain of Militia with E. T. Thomas and G. T. Willis, lieutenants, Miles Weaver, adjutant, Joseph Clark, sergeant. Guards were posted at night and armed herdsmen on horseback, kept the stock by day. The leading Indians ordered the people off their lands. They made serious threats in case of failure to leave and stock was stolen from time to time. 
 
-About this time a large company of gold seekers 
-enroute westward by way of southern California, 
-made their camp alongside the fort and they hav- 
-ing plenty of arms and ammunition, were a great 
-aid, they stayed four or five weeks and had stock 
-which was cared for together for mutual protec- 
-tion. 
+About September 1st a bastion was constructed on the mound in the fort, of heavy posts, 30 feet square, with log railings, and a six pounder iron cannon placed on the pfatlorm of the bastion, which was sufficiently elevated to protect the fort and stockyards from attack, which was considered liable to occur at any time. 
 
-Our militia company continued to practice al- 
-most daily, and through the liberality of the emi- 
-grant camp powder was supplied for the cannon. 
+About this time a large company of gold seekers enroute westward by way of southern California, made their camp alongside the fort and they having plenty of arms and ammunition, were a great aid, they stayed four or five weeks and had stock which was cared for together for mutual protection. 
 
+Our militia company continued to practice almost daily, and through the liberality of the emigrant camp powder was supplied for the cannon. 
 
+After the California emigrants had passed, the Indians got very troublesome, and were sometimes aggravated by our people, so that, towards Christmas, open war seemed inevitable. The measles got among our people and from there to the natives, having taken some prisoners, from them the disease spread through the tribe. 
 
-24 INDIAN DEPREDATIONS 
+With the aid of the measles and about 100 men from Salt Lake County the Indians were finally driven off into the mountains and far away valleys. 
 
-After the California emigrants had passed, 
-the Indians got very troublesome, and were some- 
-times aggravated by our people, so that, towards 
-Christmas, open war seemed inevitable. The measles 
-got among our people and from there to the natives, 
-having taken some prisoners, from them the disease 
-spread through the tribe. 
+During a three days fight near here, the Indians being behind a breatwork of logs and earth banks, Joseph Higbee was killed and Alex Williams, Albert Miles, Alev Stevens and Sam Casus (?) were severely wounded and Isham Flyn, John Nowlin and one or two others slightly wounded. 
 
-With the aid of the measles and about 100 men 
-from Salt Lake County the Indians were finally 
-driven off into the mountains and far away valleys. 
+##SETTLING OF UTAH VALLEY. COPIED FROM WHITNEY'S HISTORY OF UTAH. TROUBLE AT FORT UTAH (PROVO).
 
-During a three days fight near here, the Indians 
-being behind a breatwork of logs and earth banks, 
-Joseph Higbee was killed and Alex Williams, Al- 
-bert Miles, Alev Stevens and Sam Casus (?) were 
-severely wounded and Isham Flyn, John Nowlin and 
-one or two others slightly wounded. 
+It was with reluctance that the Timpanogos Indians who met the Higbee colony in March, 1848, permitted the first white settlement on Provo Eiver, and that, too, in spite of the invitation previously extended to the colonists by the chiefs, Sowiette and Walker, to settle among their tribes and teach them how to become civilized. It has also been stated that soon after Fort Utah was founded, Walker, according to Colonel Bridger and Mr. Vasquez began stirring up the Indians against the "Mormon" settlers. In this movement Walker was aided by another chief named Elk, variously styled Big Elk, Old Elk, etc., like himself a hater of the whites, and apparently quite as fond of fighting. It was with Big Elk and his band that the Provo settlers, in their first regular battle with the savages, had immediately to deal. 
 
-SETTLING OF UTAH VALLEY. COPIED FROM 
+It was believed by Governor Young that Colonel Bridger and other mountaineers were at the bottom of much of the ill-feeling manifested by the red men, and they were incited to attack the "Mormon" settlements. The Governor, (Brigham Young), however, seemed to have confidence in Mr. Vasquez, who had opened a small store in Salt Lake City, and whose interests to that extent were identified with those of the settlers. 
 
-WHITNEY'S HISTORY OF UTAH. TROUBLE 
+The Indians, at first so friendly with the Utah Valley colonists, began their depredations in that vicinity in the spring of 1849. Grain was stolen from the fields, cattle and horses from the herds, and now and then an arrow from an Indian bow would fall uncomfortably near some settler as he was out gather- 
+ing fuel in the river bottoms.
 
-AT FORT UTAH (PROVO). 
+##THE FIRST INDIAN WAR.
 
-It was with reluctance that the Timpanogos 
-Indians who met the Higbee colony in March, 1848, 
-permitted the first white settlement on Provo Eiver, 
-and that, too, in spite of the invitation previously 
-extended to the colonists by the chiefs, Sowiette and 
-Walker, to settle among their tribes and teach 
-them how to become civilized. It has also been 
-stated that soon after Fort Utah was founded, Walk- 
-er, according to Colonel Bridger and Mr. Vasquez be- 
-gan stirring up the Indians against the "Mormon" 
-settlers. In this movement Walker was aided by 
-another chief named Elk, variously styled Big 
-Elk, Old Elk, etc., like himself a hater of the whites, 
+The first fight with the Indians took place on Battle Creek, near the present site of Pleasant Grove, it occurred early in the spring of 1849. There, Colonel John Scott, with thirty or forty men, after a sharp skirmish defeated the savages under Chief Kone also Eoman Nose and drove them up Battle Creek Canyon. Five Indians were killed, but none of Colonel Scott 's men were hurt. He had been sent south to recover some stolen horses taken from Orr'e herd in Utah Valley, and several cattle stolen from Ezra T. Benson's herd in Tooele. Battle Creek derived its name from this initial encounter between the Indians and Deseret Militia.
 
+For some reason the authorities at Salt Lake City did not altogether approve the conduct of this campaign. No doubt they regretted the necessity for a military expedition against the savages, and deplored the fatalities attending it, not only from humanitarian considerations, but fearing probably that it would precipitate a general war, and unify all the savage bands of the vicinity against a handful of settlers at Fort Utah. "Shed no blood" was a standing general order to the "Mormon" militia in those days, and the troops were expected to adhere to it wherever possible. Yet blood had now been shed and the Indians were doubtless exasperated. This may or may not have been the reason that Colonel Scott was found fault with. That would materially depend upon the nature of the orders he had received from his superiors, and his ability under subsequent circumstances to carry out those orders. It is a fact, however, that the Colonel fell under some censure at the time, and because of it declined to take part in succeeding Indian campaigns. 
 
+It is said that the Utah Indians never sought revenge for any of their number killed while stealing or making an attack. Colonel George A. Smith is authority for this statement.
 
-INDIAN DEPEEDATIONS 25 
+But the Battle Creek skirmish, which was not strictly an affair of that kind, could not but have the effect of straining the relations between the settlers and their savage neighbors, and extinguishing in the hearts of the latter that spark of friendship which yet remained.
 
-and apparently quite as fond of fighting. It was 
-with Big Elk and his band that the Provo settlers, 
-in their first regular battle with the savages, had im- 
-mediately to deal. 
+They continued their petty depredations and became bolder and more insolent daily. The settlers at Fort Utah would occassionally fire their cannon to warn the redskins that they were not unmindful of their misdeeds, and were prepared to maintain their rights. But the Indians were not to be awed by sound and smoke. Their nefarious practices went on. They were evidently provoking a conflict. Stock continued to be taken from the herds, and all efforts to recover stolen property were stoutly resisted. Finally the Indians began firing on the settlers as they issued from their fort, and at last the stockade was virtually in a state of siege. 
 
-It was believed by Governor Young that Colonel 
-Bridger and other mountaineers were at the bottom 
-of much of the ill-feeling manifested by the red men, 
-and they were incited to attack the "Mormon" set- 
-tlements. The Governor, (Brigham Young), how- 
-ever, seemed to have confidence in Mr. Vasquez, who 
-had opened a small store in Salt Lake City, and 
-whose interests to that extent were identified with 
-those of the settlers. 
+No longer was it arrows alone that fell around them. Bullets whizzed past their ears. The Indians were now well supplied with fire-arms and ammunition, obtained in exchange for horses, mostly from California emigrants who had passed through the country. 
 
-The Indians, at first so friendly with the Utah 
-Valley colonists, began their depredations in that 
-vicinity in the spring of 1849. Grain was stolen from 
-the fields, cattle and horses from the herds, and now 
-and then an arrow from an Indian bow would fall un- 
-comfortably near some settler as he was out gather- 
-ing fuel in the river bottoms. . 
+Captain Howard Stansbury's party, during the fall, had been surveying around Utah Lake, where they also were much annoyed by the savages. 
 
-THE FIRST INDIAN WAR. 
+As winter came on, they suspended their labors and returned to Salt Lake City, feeling satisfied that in the existing state of affairs in Utah Valley it would be both difficult and dangerous for them to continue operations in the spring, exposed, as they would be, to attacks from the savages, either in open field or deadly ambush. 
 
-The first fight with the Indians took place on 
-Battle Creek, near the present site of Pleasant Grove, 
-it occurred early in the spring of 1849. There, Colonel 
-John Scott, with thirty or forty men, after a sharp 
-skirmish defeated the savages under Chief Kone 
-also Eoman Nose and drove them up Battle Creek 
-Canyon. Five Indians were killed, but none of Col- 
-onel Scott 's men were hurt. He had been sent south 
-to recover some stolen horses taken from Orr'e herd 
-in Utah Valley, and several cattle stolen from Ezra 
-T. Benson's herd in Tooele. Battle Creek derived its 
+The subsequent sad fate of Lieutenant John W. Gunnsion and his party on the Sevier showed that these apprehensions were well grounded. 
 
+##FEB. 9th. BATTLE AT FORT UTAH.
 
-
-26 INDIAN DEPKEDATIONS 
-
-
-
-name from this initial encounter between the Indians 
-and Deseret Militia. 
-
-For some reason the authorities at Salt Lake 
-City did not altogether approve the conduct of this 
-campaign. No doubt they regretted the necessity for 
-a military expedition against the savages, and de- 
-plored the fatalities attending it, not only from hu- 
-manitarian considerations, but fearing probably that 
-it would precipitate a general war, and unify all 
-the savage bands of the vicinity against a handful 
-of settlers at Fort Utah. "Shed no blood " was a 
-standing general order to the " Mormon " militia in 
-those days, and the troops were expected to adhere to 
-it wherever possible. Yet blood had now been shed 
-and the Indians were doubtless exasperated. This 
-may or may not have been the reason that Colonel 
-Scott was found fault with. That would materially 
-depend upon the nature of the orders he had received 
-from his superiors, and his ability under subsequent 
-circumstances to carry out those orders. It is a fact, 
-however, that the Colonel fell under some censure at 
-the time, and because of it declined to take part in 
-succeeding Indian campaigns. 
-
-It is said that the Utah Indians never sought re- 
-venge for any of their number killed while stealing 
-or making an attack. Colonel George A. Smith is 
-authority for this statement. 
-
-But the Battle Creek skirmish, which was not 
-strictly an affair of that kind, could not but have the 
-effect of straining the relations between the settlers 
-and their savage neighbors, and extinguishing in 
-the hearts of the latter that spark of friendship 
-which yet remained. 
-
-
-
-INDIAN DEPBEDATIONS 27 
-
-They continued their petty depredations and be- 
-came bolder and more insolent daily. The settlers at 
-Fort Utah would occassionally fire their cannon to 
-warn the redskins that they were not unmindful of 
-their misdeeds, and were prepared to maintain their 
-rights. But the Indians were not to be awed by sound 
-and smoke. Their nefarious practices went on. They 
-were evidently provoking a conflict. Stock con- 
-tinued to be taken from the herds, and all efforts to 
-recover stolen property were stoutly resisted. Fi- 
-nally the Indians began firing on the settlers as they 
-issued from their fort, and at last the stockade was 
-virtually in a state of siege. 
-
-No longer was it arrows alone that fell around 
-them. Bullets whizzed past their ears. The In- 
-dians were now well supplied with fire-arms and 
-ammunition, obtained in exchange for horses, mostly 
-from California emigrants who had passed through 
-the country. 
-
-Captain Howard Stansbury's party, during the 
-fall, had been surveying around Utah Lake, where 
-they also were much annoyed by the savages. 
-
-As winter came on, they suspended their labors 
-and returned to Salt Lake City, feeling satisfied 
-that in the existing state of affairs in Utah Valley 
-it would be both difficult and dangerous for them to 
-continue operations in the spring, exposed, as they 
-would be, to attacks from the savages, either in open 
-field or deadly ambush. 
-
-The subsequent sad fate of Lieutenant John W. 
-Gunnsion and his party on the Sevier showed that 
-these apprehensions were well grounded. 
-
-
-
-28 INDIAN DEPEEDATIONS 
-
-FEB. 9th. BATTLE AT FORT UTAH. 
-
-As for the inhabitants of Fort Utah, they pa- 
-tiently bore their annoyances and losses until nearly 
-spring, 1850, when affairs became so serious that 
-they felt compelled to appeal for aid to Governor 
-Brigham Young and the Legislature, still in session 
-at Salt Lake City. Captain Peter W. Conover, in 
-charge of military affairs at the fort, and Miles 
-Weaver carried the message of their anxious fel- 
-low settlers to headquarters. 
+As for the inhabitants of Fort Utah, they patiently bore their annoyances and losses until nearly spring, 1850, when affairs became so serious that they felt compelled to appeal for aid to Governor Brigham Young and the Legislature, still in session at Salt Lake City. Captain Peter W. Conover, in charge of military affairs at the fort, and Miles Weaver carried the message of their anxious fellow settlers to headquarters. 
 
 Governor Young, on receiving the message, 
 found himself in a somewhat peculiar position. That 
