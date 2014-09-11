@@ -34,7 +34,7 @@ My aim has been to give credit where such was due, but to get in the names of al
 
 It has not been my purpose to single out any one as a particular hero ahead of all others, but to record conditions and facts as they existed and occurred. 
 
-I sincerely thank all who haVe assisted me, especially the Indian War Veterans and the Church Historians for their willing and interested assistance. I will make special mention of Assistant Church Historian Andrew Jenson, who has given me important assistance in obtaining correct dates and information, and preparing my manuscript for the printers, and hope my little book will fill an important place in the history of our fair State. 
+I sincerely thank all who have assisted me, especially the Indian War Veterans and the Church Historians for their willing and interested assistance. I will make special mention of Assistant Church Historian Andrew Jenson, who has given me important assistance in obtaining correct dates and information, and preparing my manuscript for the printers, and hope my little book will fill an important place in the history of our fair State. 
 
 _--The Compiler._
 
@@ -45,8 +45,7 @@ _--The Compiler._
 
 It has always been the policy of the Mormon people to court the friendship of the American Indian and treat him kindly. 
 
-President Brigham Young said, "It is cheaper to feed them than fight them." In the early rise of the Church, Missionaries were sent out to preach to them. The Prophet Joseph Smith visited and preached to them. As early as October 1830, Oliver Cowdry, Parley P. Pratt, Peter Whittmer, Jr. and Ziba Peterson were called by revelation to preach the gospel to the Lamanites (Indians). In 1835 elders Brigham Young, John P. Greene and Amos Orton were appointed to preach the gospel to them and when the people were driven from their homes in Missouri and Illnois and wended their way into the unknown west, the various Indian tribes in Iowa, Nebraska and on the western plains received them kindly, as a rule, believing they were outcasts, driven from 
-their homes and the graves of their fore-fathers, as they themselves had been. In the year 1858, I with my parents came from Omaha where we had lived for some two years, was then twelve years of age, 
+President Brigham Young said, "It is cheaper to feed them than fight them." In the early rise of the Church, Missionaries were sent out to preach to them. The Prophet Joseph Smith visited and preached to them. As early as October 1830, Oliver Cowdry, Parley P. Pratt, Peter Whittmer, Jr. and Ziba Peterson were called by revelation to preach the gospel to the Lamanites (Indians). In 1835 elders Brigham Young, John P. Greene and Amos Orton were appointed to preach the gospel to them and when the people were driven from their homes in Missouri and Illnois and wended their way into the unknown west, the various Indian tribes in Iowa, Nebraska and on the western plains received them kindly, as a rule, believing they were outcasts, driven from their homes and the graves of their fore-fathers, as they themselves had been. In the year 1858, I with my parents came from Omaha where we had lived for some two years, was then twelve years of age, 
 
 After spending one year in Salt Lake City, herding cows in the summer time, I with my parents and two brothers and one sister went to Sanpete and were pioneers of Mount Pleasant, and in the year 1864 were also pioneers of Richfield in Sevier County. 
 
@@ -54,8 +53,7 @@ The Indians at that time were generally friendly towards the settlers, although,
 
 It was the inherent nature of the Indian to steal, and this brings to my mind an incident told of an Indian who brought a worn out axe to a black smith to be fixed, the blacksmith said, I can't fix it, it hasn't any steel in it. "Oh yes, said the Indian, it is all steel, me steal it last night."
 
-Indians could not be depended upon as to their lasting friendship, mostly on account of their thieving propensity, so it was necessary for the settlers to build forts for protection. At Mount Pleasant a fort was built the first summer, of large sand stones that were dug out of the ground, and picked up near the site, it was twenty six rods square, the walls were four feet thick at the bottom eighteen inches on top and twelve feet high, with rooms built against 
-the wall sixteen feet square, with a port hole through fort wall in middle of each room, about seven feet from the ground, the holes were about two feet wide inside, four inches on outside and eighteen inches high, there were heavy double wooden gates in the middle of north and south. sides of the fort, and there were some rows of houses in the inside. The creek ran through the fort from east to west. Similar forts were built in most all the new settlements. 
+Indians could not be depended upon as to their lasting friendship, mostly on account of their thieving propensity, so it was necessary for the settlers to build forts for protection. At Mount Pleasant a fort was built the first summer, of large sand stones that were dug out of the ground, and picked up near the site, it was twenty six rods square, the walls were four feet thick at the bottom eighteen inches on top and twelve feet high, with rooms built against the wall sixteen feet square, with a port hole through fort wall in middle of each room, about seven feet from the ground, the holes were about two feet wide inside, four inches on outside and eighteen inches high, there were heavy double wooden gates in the middle of north and south. sides of the fort, and there were some rows of houses in the inside. The creek ran through the fort from east to west. Similar forts were built in most all the new settlements. 
 
 As the settlements became more populous, towns were surveyed with blocks generally twenty six rods square with six rod streets which made 100 blocks to a square mile, or section of land. 
 
@@ -202,9 +200,7 @@ President Young and Party Left G. S. L. City for Sanpete
 
 R. Gillispie and A. Robinson Killed South of Salina
 
-Gen. W. S. Snow Took Command of the Sanpete 
-
-Militia
+Gen. W. S. Snow Took Command of the Sanpete Militia
 
 Gen. Snow Start After the Indians, the Squaw Fight in Grass Valley, Marine York Wounded
 
@@ -418,18 +414,18 @@ The Federal Pension Bill, Granting Pensions to Indian War Veterans
 The first winter spent by the pioneers in Salt Lake Valley was a quiet one. The surrounding tribes of Indians were on their good behavior, as far as the new comers were concerned, although at war with each other. The victorious parties during such wars scalped all the warriors whom they captured or killed. Their custom was to hang these scalps on their scalp-poles, which they took great pride in exhibitng. The brave that could show the greatest number was considered the greatest Indian of them all. 
 
 The young women and children were held as slaves, and sometimes treated in the most cruel manner. The red men were not long in learning that the Saints were a tender-hearted people, and could not witness such scenes without sympathizing to the uttermost with those who were being tortured. Among the first accounts given by the pioneers of this barbaric treatment is one found in Mary Ellen 
-KimbalPs journal of 1847, of which the following is a brief extract:
+
+Kimball's journal of 1847, of which the following is a brief extract:
 
 A number of Indians were camped near the Hot Springs, north of the Fort. They had with them a little girl who had been captured from another tribe, and they offered to trade her for a rifle. Fire-arms were scarce with the pioneers, and besides it was not good policy to arm these cruel savages who might at any time turn on those who had armed them. The Indians finally began to torture the little one, at the same time declaring that they would kill her, unless the rifle was forthcoming. One of our pioneer boys, Charles Decker, whose heart was wrung by witnessing such cruelty, very reluctantly parted with his only gun. He took the little girl home, and gave her to his sister, Clara D. Young. They named her Sally, and she lived in the family of President Brigham Young until she had grown to womanhood. Afterwards she married a noble and friendly Pauvante chief named Kanosh. She made him a good wife and did much towards civilizing him. He joined the "Mormon" Church and died a faithful Latter-day Saint. That winter several pappooses were purchased under similar circcumstances. 
 
-John E. Young referring to the same incident relates the following:
+John R. Young referring to the same incident relates the following:
 
-Elder John E. Young writes: "Soon after we moved on to our city lot in the fall of 1847, a band of Indians camped near us. Early one morning we were excited at hearing their shrill, blood curdling war whoop, mingled with occasionally sharp cries of pain. Father sent me to the fort for help. Charley Decker and Barney Ward (the interpreter) and others hurried to the camp. 
+Elder John R. Young writes: "Soon after we moved on to our city lot in the fall of 1847, a band of Indians camped near us. Early one morning we were excited at hearing their shrill, blood curdling war whoop, mingled with occasionally sharp cries of pain. Father sent me to the fort for help. Charley Decker and Barney Ward (the interpreter) and others hurried to the camp. 
 
-It was Wanship's band. Some of his braves had just returned from the war path. In a fight with "Little Wolf V band, they lost two men, but had succeeded in taking two girls prisoners. One of these they had killed and were torturing the other. To save her life Charley Decker bought her and took her to our house to be washed and clothed. 
+It was Wanship's band. Some of his braves had just returned from the war path. In a fight with "Little Wolf's" band, they lost two men, but had succeeded in taking two girls prisoners. One of these they had killed and were torturing the other. To save her life Charley Decker bought her and took her to our house to be washed and clothed. 
 
-She was the saddest looking piece of humanity I have ever seen. They had shingled her head with butcher knives and fire brands. All the fleshy parts 
-of her body, legs and arms had been hacked with knives, then fire brands had been stuck into the wounds. She was gaunt with hunger and smeared from head to foot with blood and ashes.
+She was the saddest looking piece of humanity I have ever seen. They had shingled her head with butcher knives and fire brands. All the fleshy parts of her body, legs and arms had been hacked with knives, then fire brands had been stuck into the wounds. She was gaunt with hunger and smeared from head to foot with blood and ashes.
 
 After being scrubbed and clothed, she was given to Pres. Brigham Young and became as one of his family. They named her Sally, and her memory has ben perpetuated by the "Courtship of Kanosh, a Pioneer Indian Love Story," written by my gifted cousin, Susa Young Grates. 
 
@@ -437,15 +433,14 @@ But Susa gave us only the courtship, while the ending of Sally's life, as told t
 
 One day when they were in a secluded place digging segoes, the new wife murdered Sally and buried the body in a gully. 
 
-When Kanosh missed her, he took her track and followed it as faithfully as a blood hound could have done, and was not long in finding the grave. In his 
-grief he seized the murderess and would have burned her at the stake but white men interfered. 
+When Kanosh missed her, he took her track and followed it as faithfully as a blood hound could have done, and was not long in finding the grave. In his grief he seized the murderess and would have burned her at the stake but white men interfered. 
 
 In due time the Indian woman confessed her guilt and, in harmony with Indian justice, offered to expiate her crime by starving herself to death. 
 
 The offer was accepted, and on a lone hill in sight of the village, a "wick-i-up" was constructed of dry timber. Taking a jug of water, the woman walked silently toward her living grave. Like the rejected swan, alone, unloved, in low tones she sang her own sad requiem, until her voice was hushed in death. One night when the evening beacon fire was not seen by the villagers, a runner was dispatched to fire the wick-i-up and retribution was complete. 
 
-Sally's funeral had taken place only a few days previous. Over a hundred vehicles followed the remains to its last resting place, and beautiful floral 
-wreaths covered the casket; for Sally had been widely loved among the white settlers for her gentle ways.
+Sally's funeral had taken place only a few days previous. Over a hundred vehicles followed the remains to its last resting place, and beautiful floral wreaths covered the casket; for Sally had been widely loved among the white settlers for her gentle ways.
+
 _--Young's Manuscript page 45, copied at Historian's Office by H. H. Jenson._
 
 ##1849. FEB. 28th, FIRST BATTLE WITH INDIANS IN UTAH, AT BATTLE CEEEK.
@@ -453,6 +448,7 @@ _--Young's Manuscript page 45, copied at Historian's Office by H. H. Jenson._
 _Copied from records in the L.D.S. Historian's Office._
 
 A report having reached Salt Lake City that some renegade Indians were molesting the settlers, a company of thirty or forty men under Captain John Scott left Salt Lake City Feb. 28, 1849, in pursuit of some Indians who had been stealing and killing cattle and running off horses from Willow Creek (Draper) and other places. The company proceeded to Utah Valley and met Little Chief and his band of Timpanogos Utes on the Provo River who told the military boys where the thieving Indians were encamped. The company left the Provo river in the night, taking with them as guide Little Chief's son who led them over the Provo Bench toward the creek (Battle Creek) north of the base of the mountains, whence from an eminence they discovered the fires of the Indians who were encamped on the creek which ran in the midst of willows and dense brush-wood in a deep ravine. The company was divided into four smaller bodies and posted north, south, east and west of the Indians, who, when they awoke in the morning, found themselves besieged. The savages packed up their baggage and ineffectually tried every way to escape. They then commenced to fight by shooting arrows and firing guns. This small predatory band of Indians consisted of two lodges under Kone and Blue-Shirt and numbered seventeen souls in all, including four men. The squaws and children were secured and fed and warmed. After a desultory fight of three or four hours, the four men who took every advantage of the brush for cover were killed. None of the brethern were injured. The skins of fifteen cattle, which the Indians had killed were found near by. During the fight Stick-in-the-Head and his band of Timpanogos Utes came up ready for a fight and took position on an elevation, whence they vainly called to the besieged and urged them to come that way. The company returned to Great Salt Lake City March 6th. The squaws and children of the slain were taken to the City, and after being fed went to their friends among the other Indians. From this circumstance the creek on which the fight took place was named Battle Creek. The fight referred to was the first battle which the "Mormon" Pioneers fought with the Indians in the Territory of Utah.
+
 _--From Journal History at the Historian's Office._
 
 
@@ -488,12 +484,11 @@ It was with reluctance that the Timpanogos Indians who met the Higbee colony in 
 
 It was believed by Governor Young that Colonel Bridger and other mountaineers were at the bottom of much of the ill-feeling manifested by the red men, and they were incited to attack the "Mormon" settlements. The Governor, (Brigham Young), however, seemed to have confidence in Mr. Vasquez, who had opened a small store in Salt Lake City, and whose interests to that extent were identified with those of the settlers. 
 
-The Indians, at first so friendly with the Utah Valley colonists, began their depredations in that vicinity in the spring of 1849. Grain was stolen from the fields, cattle and horses from the herds, and now and then an arrow from an Indian bow would fall uncomfortably near some settler as he was out gather- 
-ing fuel in the river bottoms.
+The Indians, at first so friendly with the Utah Valley colonists, began their depredations in that vicinity in the spring of 1849. Grain was stolen from the fields, cattle and horses from the herds, and now and then an arrow from an Indian bow would fall uncomfortably near some settler as he was out gathering fuel in the river bottoms.
 
 ##THE FIRST INDIAN WAR.
 
-The first fight with the Indians took place on Battle Creek, near the present site of Pleasant Grove, it occurred early in the spring of 1849. There, Colonel John Scott, with thirty or forty men, after a sharp skirmish defeated the savages under Chief Kone also Eoman Nose and drove them up Battle Creek Canyon. Five Indians were killed, but none of Colonel Scott 's men were hurt. He had been sent south to recover some stolen horses taken from Orr'e herd in Utah Valley, and several cattle stolen from Ezra T. Benson's herd in Tooele. Battle Creek derived its name from this initial encounter between the Indians and Deseret Militia.
+The first fight with the Indians took place on Battle Creek, near the present site of Pleasant Grove, it occurred early in the spring of 1849. There, Colonel John Scott, with thirty or forty men, after a sharp skirmish defeated the savages under Chief Kone also Eoman Nose and drove them up Battle Creek Canyon. Five Indians were killed, but none of Colonel Scott's men were hurt. He had been sent south to recover some stolen horses taken from Orr'e herd in Utah Valley, and several cattle stolen from Ezra T. Benson's herd in Tooele. Battle Creek derived its name from this initial encounter between the Indians and Deseret Militia.
 
 For some reason the authorities at Salt Lake City did not altogether approve the conduct of this campaign. No doubt they regretted the necessity for a military expedition against the savages, and deplored the fatalities attending it, not only from humanitarian considerations, but fearing probably that it would precipitate a general war, and unify all the savage bands of the vicinity against a handful of settlers at Fort Utah. "Shed no blood" was a standing general order to the "Mormon" militia in those days, and the troops were expected to adhere to it wherever possible. Yet blood had now been shed and the Indians were doubtless exasperated. This may or may not have been the reason that Colonel Scott was found fault with. That would materially depend upon the nature of the orders he had received from his superiors, and his ability under subsequent circumstances to carry out those orders. It is a fact, however, that the Colonel fell under some censure at the time, and because of it declined to take part in succeeding Indian campaigns. 
 
@@ -529,151 +524,22 @@ Captain Grant's cavalry, after marching all night, on the morning of the 8th, ar
 
 Captain Conover, commander at the fort, united his men with Captain Grant's, and the main forces then proceeded to occupy a position near the deserted building, about a half a mile south-west of the log house mentioned. The Indians were led by Chiefs Elk and Ope-Carry surnamed "Stick-in-the-Head" the latter, like Sowiette, rather friendly with the whites, while Elk, as has been stated, was more like the warlike Walker. Ope-Carry, it seems, desired peace, and had come out of the redoubt to talk with Dimick B. Huntingdon, the interpreter, when Elk and his warriors opened fire, and the battle was thus begun. 
 
-The engagement lasted two days, during which time an almost incessant fusilade was kept up between the white assailants and the dusky defenders of the river redoubt. Artillery was also employed against the savages, but with little effect, as they were right under the bank, and most of the balls passed harmlessly over. A squaw was killed by a chain shot, however, during the progress of the fight. The Indians would make frequent sorties, and after delivering their fire, return to cover. Again, they would thrust their gun barrels through the snow lying deep upon the banks above them, and momentarily raising their heads high enough to take aim, discharge their broad-side at the besiegers. They fought so stubbornly that all efforts to dislodge them for a time proved futile. They killed Joseph Higbee, son of Isaac Higbee then president of the settlement and wounded several others of the attacking force. 
+The engagement lasted two days, during which time an almost incessant fusilade was kept up between the white assailants and the dusky defenders of the river redoubt. Artillery was also employed against the savages, but with little effect, as they were right under the bank, and most of the balls passed harmlessly over. A squaw was killed by a chain shot, however, during the progress of the fight. The Indians would make frequent sorties, and after delivering their fire, return to cover. Again, they would thrust their gun barrels through the snow lying deep upon the banks above them, and momentarily raising their heads high enough to take aim, discharge their broad-side at the besiegers. They fought so stubbornly that all efforts to dislodge them for a time proved futile. They killed Joseph Higbee, son of Isaac Higbee--then president of the settlement--and wounded several others of the attacking force. 
 
-Finally, in the afternoon of the second day, 
-(Feb. 9th) Captain Grant, whose care had been to 
-expose his men as little as possible, determined to 
-capture the log-house at all hazards. He therefore 
-ordered Lieutenant William H. Kimball, with fifteen 
-picked men, to charge upon the house and take it. 
-Among those who participated in this charge 
-the one daring exploit of the campaign were "Rob- 
-ert T. Burton, Lot Smith, James Ferguson, John R. 
-Murdock, Ephraim K. Hanks, A. J. Pendleton, Or- 
-son K. Whitney, Barney Ward, Henry Johnson and 
-Isham Flyn. Kimball and his men proceded up the 
-river until directly opposite the log-house, which 
-now intervened between them and the stream. They 
-turned to the left, facing the rear of the house, and 
-the leader gave the word of charge. Dashing forward 
-through a ravine that for some moments hid them 
-from view, the horsemen emerged upon the flat and 
+Finally, in the afternoon of the second day, (Feb. 9th) Captain Grant, whose care had been to expose his men as little as possible, determined to capture the log-house at all hazards. He therefore ordered Lieutenant William H. Kimball, with fifteen picked men, to charge upon the house and take it. Among those who participated in this charge the one daring exploit of the campaign were "Robert T. Burton, Lot Smith, James Ferguson, John R. Murdock, Ephraim K. Hanks, A. J. Pendleton, Orson K. Whitney, Barney Ward, Henry Johnson and Isham Flyn. Kimball and his men proceded up the river until directly opposite the log-house, which now intervened between them and the stream. They turned to the left, facing the rear of the house, and the leader gave the word of charge. Dashing forward through a ravine that for some moments hid them from view, the horsemen emerged upon the flat and were within a few rods of the house, in the act of crossing a small slough, when a roaring volley from the log citadel met them. Isham Flyn was wounded and the charge was momentarily checked. Several swept on, however, and the Indians hastily vacating the house, fled to their entrenchments.
+
+The first two troopers to gain the house were Lot Smith and Robert T. Burton, who, riding around to the front of the building, entered the passage between the two compartments. Bullets whizzed past them, splintering the wood-work all around, but both they and their horses were soon under shelter. Their companions, a moment later, gathered to the rear of the house, and none too soon, for the Indians, recovering from their surprise, began pouring their volleys into the ranks of cavalry and upon the captured building. Half the horses were instantly killed and their riders escaped by miracle. Between the volleys, Lieutenant Kimball, Ephraim K. Hanks and others, darting around the corner of the house, gained the inside, while others waited until an opening had been made in the rear.
+
+To support the cavalry charge, Captain Grant ordered forward a small detachment of infantry. These men, ten in number, were a portion of Captain Conover's command, and were led by Jabez B. Nowlin. On reaching the log-house, with saw and ax they effected an entrance at the rear. Some, however, went around the corner into the passage, and were fired upon by the savages; Nowlin being wounded in the nose. 
+
+The services of a surgeon was now in demand. Seeing that something was wrong, Captain Grant requested Hiram B. Clawson, General Wells' aide, 
 
 
+The Indians who claimed that part of the country had gone south into Sevier Valley for winter, where less snow fell and where game was more plentiful, such as deer rabbits, ducks, geese, etc. Beaver otter and mink were in the river and small streams. 
 
-32 INDIAN DEPKEDATIONS 
+In the spring of 1850, the Indians returned and camped south west of the colonists, Arrapene was their chief, they were friendly towards the whites. At the death of Arrapene, Sowiette became chief of the tribe, which numbered several hundred. 
 
-were within a few rods of the house, in the act of 
-crossing a small slough, when a roaring volley from 
-the log citadel met them. Isham Flyn was wounded 
-and the charge was momentarily checked. Several 
-swept on, however, and the Indians hastily vacating 
-the house, fled to their entrenchments. 
-
-The first two troopers to gain the house were 
-Lot Smith and Robert T. Burton, who, riding around 
-to the front of the building, entered the passage be- 
-tween the two compartments. Bullets whizzed past 
-them, splintering the wood-work all around, but both 
-they and their horses were soon under shelter. Their 
-companions, a moment later, gathered to the rear 
-of the house, and none too soon, for the Indians, 
-recovering from their surprise, began pouring their 
-volleys into the ranks of cavalry and upon the cap- 
-tured building. Half the horses were instantly 
-killed and their riders escaped by miracle. Between 
-the volleys, Lieutenant Kimball, Ephraim K. Hanks 
-and others, darting around the corner of the house, 
-gained the inside, while others waited until an open- 
-ing had been made in the rear. 
-
-To support the cavalry charge, Captain Grant 
-ordered forward a small detachment of infantry. 
-These men, ten in number, were a portion of Captain 
-Conover's command, and were led by Jabez B. Now- 
-lin. On reaching the log-house, with saw and ax they 
-effected an entrance at the rear. Some, however, 
-went around the corner into the passage, and were 
-fired upon by the savages; Nowlin being wounded 
-in the nose. 
-
-The services of a surgeon was now in demand. 
-Seeing that something was wrong, Captain Grant 
-requested Hiram B. Clawson, General Wells' aide, 
-
-
-
-^3 g 2 * > 
-
-" 
-
-
-
-o ~ . r * 
-
-
-
--! 
-
-P ^ A : 
-
-" 5 -' re 
-
-
-
-c rt -' 
-
-
-
-Jfifcij 
-
-?B- s lasl 
-
-
-
-g- s =?!=' 
-
-: ef. * ^ 
-
-l;^l f 'C 
-
-
-
-- 1 j-j -* * 
-
-O 3 ct o as ." 
-
-
-
-
-The Indians who claimed that part of the country had gone south 
-into Sevier Valley for winter, where less snow fell and where game- 
-was more plentiful, such as deer rabbits, ducks, geese, etc. Beaver 
-otter and mink were in the river and small streams. 
-
-In th spring of 1850, the Indians returned and camped south 
-west of the colonists, Arrapene was their chief, they were friendly 
-towards the whites. At the death of Arrapene, Sowiette became chief 
-of the tribe, which numbered several hundred. 
-
-The author herded in Sevier Valley, at Willow Creek (now Axtel) 
-during the winter of 1860. More than three years prior to settling 
-the valley, our number consisted of George Wilson, David Wilson, Eli 
-Openshaw, Samuel Allen and myself we had ' the Mount Pleasant 
-dry stock and a bunch of sheep to care for. The Indians came out 
-from Manti to winter as usual, to hunt and trap, there were about 
-forty or fifty lodges with from four to ten Indians, young and old 
-to each lodge. Their tents were made mostly of smoked buckskins, 
-the smoking prevented them from becoming hard after being wet, and 
-they were very strong and durable. Their sewing thread consisted 
-of sinew taken from the back of deer, which is the strong ligaments 
-that lays near the skin, extending from the hip to shoulder, it could 
-be stripped apart in as fine threads as desired and was very strong 
-and durable, their bow strings were made of the same material and 
-they glued a covering of sinew on the back, or outside of their bows 
-to give them strength and spring. As a rule they were better marks- 
-men with their bows than with guns. The squaws enjoyed target prac- 
-tice, but were not strong enough to pull the arrow back as the bucks 
-did, consequently they would lay on their back, place the middle of 
-of the bow against the soles of their moccasins, placing the arrow 
-between their feet and with both hands pull the arrow back its full 
-length, with a good bow they could send an arrow four hundred yards 
-or more. Their best bows were made of mountain sheep "horns. Their 
-tent poles were about twelve feet long and about two inches in dia- 
-meter, with holes through the small, or top ends to tie them together 
-when traveling, they dragged about five on either side of a horse and 
-fastened a small stick across behind the horse and loaded them with 
+The author herded in Sevier Valley, at Willow Creek (now Axtel) during the winter of 1860. More than three years prior to settling the valley, our number consisted of George Wilson, David Wilson, Eli Openshaw, Samuel Allen and myself we had ' the Mount Pleasant dry stock and a bunch of sheep to care for. The Indians came out from Manti to winter as usual, to hunt and trap, there were about forty or fifty lodges with from four to ten Indians, young and old to each lodge. Their tents were made mostly of smoked buckskins, the smoking prevented them from becoming hard after being wet, and they were very strong and durable. Their sewing thread consisted of sinew taken from the back of deer, which is the strong ligaments that lays near the skin, extending from the hip to shoulder, it could be stripped apart in as fine threads as desired and was very strong and durable, their bow strings were made of the same material and they glued a covering of sinew on the back, or outside of their bows to give them strength and spring. As a rule they were better marksmen with their bows than with guns. The squaws enjoyed target practice, but were not strong enough to pull the arrow back as the bucks did, consequently they would lay on their back, place the middle of of the bow against the soles of their moccasins, placing the arrow between their feet and with both hands pull the arrow back its full length, with a good bow they could send an arrow four hundred yards or more. Their best bows were made of mountain sheep "horns. Their tent poles were about twelve feet long and about two inches in diameter, with holes through the small, or top ends to tie them together when traveling, they dragged about five on either side of a horse and fastened a small stick across behind the horse and loaded them with 
 blankets, provisions and pappooses. A squaw would generally ride, 
 hunched on the horse between the ends of the tent poles. The tents, 
 or wicki-ups were open at the top to let out the smoke and the poles 
