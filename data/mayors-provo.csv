@@ -1,46 +1,46 @@
-term-of-office, name, birth-death,
-1851-1852, Ellis Eames, 1809-1882
-1853-1854, Evan Molbourne Green, 1814-1882
-1855-1860, Benjamin Kimball Bullock, 1821-1901
-1861, Ebenezer Hanks, 1815-1884
-1861-1862, Andrew Hunter Scott Sr., 1815-1874
-1863, Isaac Bullock, 1825-1891
-1863, Benjamin Kimball Bullock, 1821-1901
-1864-1867, William Miller, 1814-1875
-1868-1881, Abraham Owen Smoot, 1815-1895
-1882-1889, Wilson Howard Dusenberry, 1841-1925
-1890-1891, John Edge Booth, 1847-1920
-1892-1893, Warren Newton Dusenberry, 1836-1915
-1894-1897, Lafayette Holbrook, 1850-1941
-1898-1899, Samuel Stephen Jones, 1837-1923
-1900-1903, Thomas Nicholls Taylor, 1868-1950
-1904-1905, William Martin Roylance, 1865-1925
-1906-1907, Joseph Hyrum Frisby, 1850-1915
-1908-1909, Charles Franklin Decker, 1863-1922
-1910-1911, William H Ray, 1864-1936
-1912-1915, Charles Franklin Decker, 1863-1922
-1916-1917, James Edward Daniels, 1853-1941
-1918-1921, Leroy Dixon, 1881-1926
-1922-1927, Oscar Keilgaard Hansen, 1874-1930
-1928-1929, Alma Van Wagenen, 1872-1959
-1930-1933, Jesse N. Ellertson, 1889-1967
-1934-1935, Abraham Owen Smoot III, 1879-1937
-1936-1941, Mark Anderson, 1889-1962
-1941-1945, Maurice Harding, 1901-1994
-1946-1947, Mark Anderson, 1889-1962
-1948-1949, George Earl Collard, 1893-1982
-1950-1953, Charles William Love Jr., 1884-1965
-1954-1955, Aura C. Hatch, 1895-1980
-1956-1957, Harold E. Van Wagenen, 1909-1992
-1958, George Marion Hinckley, 1909-2000
-1959-1961, Lloyd L. Cullimore, 1895-1986
-1961, Ariel Smith Ballif Sr., 1901-1995
-1962-1973, Verl Grant Dixon, 1908-2001
-1974-1977, Russell D. Grange, 1921-1991
-1978-1986, James Eldon Ferguson
-1987-1993, Joseph A. Jenkins
-1993, Dennis R. Hall
-1993-1994, Michael R. Hill (interim mayor appointed)
-1994-1997, George Q. Stewart
-1998-2010, Lewis K. Billings
-2010-, John Curtis
+name,birth,death,term_start,term_end
+Ellis Eames,1809,1882,1851,1852
+Evan Molbourne Green,1814,1882,1853,1854
+Benjamin Kimball Bullock,1821,1901,1855,1860
+Ebenezer Hanks,1815,1884,1861,1861
+Andrew Hunter Scott Sr.,1815,1874,1861,1862
+Isaac Bullock,1825,1891,1863,1863
+Benjamin Kimball Bullock,1821,1901,1863,1863
+William Miller,1814,1875,1864,1867
+Abraham Owen Smoot,1815,1895,1868,1881
+Wilson Howard Dusenberry,1841,1925,1882,1889
+John Edge Booth,1847,1920,1890,1891
+Warren Newton Dusenberry,1836,1915,1892,1893
+Lafayette Holbrook,1850,1941,1894,1897
+Samuel Stephen Jones,1837,1923,1898,1899
+Thomas Nicholls Taylor,1868,1950,1900,1903
+William Martin Roylance,1865,1925,1904,1905
+Joseph Hyrum Frisby,1850,1915,1906,1907
+Charles Franklin Decker,1863,1922,1908,1909
+William H Ray,1864,1936,1910,1911
+Charles Franklin Decker,1863,1922,1912,1915
+James Edward Daniels,1853,1941,1916,1917
+Leroy Dixon,1881,1926,1918,1921
+Oscar Keilgaard Hansen,1874,1930,1922,1927
+Alma Van Wagenen,1872,1959,1928,1929
+Jesse N. Ellertson,1889,1967,1930,1933
+Abraham Owen Smoot III,1879,1937,1934,1935
+Mark Anderson,1889,1962,1936,1941
+Maurice Harding,1901,1994,1941,1945
+Mark Anderson,1889,1962,1946,1947
+George Earl Collard,1893,1982,1948,1949
+Charles William Love Jr.,1884,1884,1950,1953
+Aura C. Hatch,1895,1980,1954,1955
+Harold E. Van Wagenen,1909,1992,1956,1957
+George Marion Hinckley,1909,2000,1958,1958
+Lloyd L. Cullimore,1895,1986,1959,1961
+Ariel Smith Ballif Sr.,1901,1995,1961,1961
+Verl Grant Dixon,1908,2001,1962,1973
+Russell D. Grange,1921,1991,1974,1977
+James Eldon Ferguson,,,1978,1986
+Joseph A. Jenkins,,,1987,1993
+Dennis R. Hall,,,1993,1993
+Michael R. Hill (interim mayor appointed),,,1993,1994
+George Q. Stewart,,,1994,1997
+Lewis K. Billings,,,1998,2010
+John Curtis,,,2010,
